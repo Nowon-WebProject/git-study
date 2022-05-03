@@ -9,6 +9,7 @@
 </head>
 <body>
 <jsp:include page="nav.jsp"></jsp:include>
+테스트입니다
 <jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
